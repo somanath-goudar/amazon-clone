@@ -1,7 +1,7 @@
 
 
 <div>
-  <a href="https://clone-c4a90.web.app/">View Live Demo</a>
+  <h2>Demo: </h2><a href="https://clone-c4a90.web.app/">https://clone-c4a90.web.app/</a>
 </div>
 </br>
 
