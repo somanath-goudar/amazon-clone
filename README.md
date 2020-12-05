@@ -1,7 +1,7 @@
 
 
 <div>
-  <h2>Demo: </h2><a target="_BLANK" href="https://clone-c4a90.web.app/">https://clone-c4a90.web.app/</a>
+  <h2>Demo: </h2><a target="_blank" href="https://clone-c4a90.web.app/">https://clone-c4a90.web.app/</a>
 </div>
 </br>
 
