@@ -9,6 +9,7 @@
 <div>
   <img src="https://react-projects-somanath.netlify.app/img/amazon.png" />
 </div>
+</br>
 
 
 
