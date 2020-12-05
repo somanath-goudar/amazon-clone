@@ -1,4 +1,5 @@
-<a href="https://clone-c4a90.web.app/">Live Demo</a
+<a href="https://clone-c4a90.web.app/">View Live Demo</a>
+<img src="https://react-projects-somanath.netlify.app/img/amazon.png" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
